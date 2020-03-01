@@ -36,6 +36,5 @@ if(question == false) //if it's not a question, press enter
 }
 if(question == true) //if it's a question, give options
 {
-	//draw_set_halign(fa_left);
-	draw_text(room_width/2 - 400,room_height/2 + 200,(opt));
+	draw_text(room_width/2,room_height/2 + 200,(opt));
 }

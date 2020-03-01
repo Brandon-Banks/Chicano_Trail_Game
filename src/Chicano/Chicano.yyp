@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "407af676-0960-4190-9d1b-064235171f50",
-            "Value": {
-                "id": "7f85788f-c6fb-4174-803e-52de7ef9572d",
-                "resourcePath": "objects\/oMenu\/oMenu.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5d5d358e-c005-44fe-9eb6-2625a6b6f4c1",
             "Value": {
                 "id": "9afbe219-0d9c-4896-a9c7-9ab6f3ab18af",
@@ -79,17 +71,6 @@
             }
         },
         {
-<<<<<<< Updated upstream
-=======
-            "Key": "5f031003-712c-4fcb-82c3-50a88d4788d8",
-            "Value": {
-                "id": "8420ab9b-853c-41e5-94f6-2e1cf19d9a5f",
-                "resourcePath": "rooms\/rMenu\/rMenu.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
->>>>>>> Stashed changes
             "Key": "6b8c30b8-a0ba-45ec-99a4-e64238b6892b",
             "Value": {
                 "id": "0a04a27d-f669-4ecd-a1b3-d426a67ce437",
@@ -103,14 +84,6 @@
                 "id": "f4ccb902-0310-4123-8ff1-15e8412c04cb",
                 "resourcePath": "views\/720c0d39-7414-44b6-bd92-06a5c8390ab1.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "72fa4222-11c8-4513-8945-f8db18dbd712",
-            "Value": {
-                "id": "7b455533-df58-45f9-aa17-a54e003ccf62",
-                "resourcePath": "objects\/oTransition\/oTransition.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -258,14 +231,6 @@
             }
         },
         {
-            "Key": "ee650ded-78cf-4d53-bf29-98e8ea2ad499",
-            "Value": {
-                "id": "eb58805d-ff10-456d-b2c6-8393c3cfc485",
-                "resourcePath": "scripts\/SlideTransition\/SlideTransition.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "f0c1d3eb-d0c7-4af9-a609-dd3b7bba5fd5",
@@ -275,8 +240,7 @@
         }
     ],
     "script_order": [
-        "eb72319d-ef0a-44e0-a360-175c153454b0",
-        "ee650ded-78cf-4d53-bf29-98e8ea2ad499"
+        "eb72319d-ef0a-44e0-a360-175c153454b0"
     ],
     "tutorial": ""
 }
